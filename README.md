@@ -3,3 +3,4 @@
 #### **Sobre**
   Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá e atualmente estou cursando Sistemas de Informação pela instituição Cefet-RJ com a previsão de término em 2024. 
   Atualmente estou concentrado em estudar React JS e Node JS.
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="SEUUSUARIO" />
