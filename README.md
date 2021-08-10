@@ -1,12 +1,13 @@
 # Olá, meu nome é Enzo Rossi <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="30" width="30" />
-  Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá e atualmente estou cursando Sistemas de Informação pela instituição Cefet-RJ com a previsão de término em 2024. 
   
 <div>
-  <ul>
+  <ul >
     <li>:desktop_computer:<b>Trabalho Atual: </b>Estou estudando para me tornar um desenvolvedor Full Stack;</li>
+    <li>:brain:<b>Estudando: </b>Cursando Sistemas de Informação;</li>
     <li>:seedling:<b>Aprendendo: </b>Atualmente estou concentrado em estudar React JS e Node JS;</li>
     <li>:hammer:<b>Principais Ferramentas: </b>Visual Studio Code e GitHub;</li>
   </ul>
+  <img width="170" src="https://media4.giphy.com/media/J20KhwQ6sL0CGiEVrz/giphy.gif?cid=ecf05e47wfhy6zlauy50ulssuyza8j4ab8xd4z0o476w3pf6&rid=giphy.gif" />
  </div>
  <div>
   <a href="https://github.com/rossienzo">
