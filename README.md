@@ -2,8 +2,8 @@
   
 <div>
   <ul >
-    <li>:desktop_computer:<b>Trabalho Atual: </b>Estou estudando para me tornar um desenvolvedor Full Stack;</li>
-    <li>:brain:<b>Estudando: </b>Cursando Sistemas de Informação;</li>
+    <li>:desktop_computer:<b>Pretenção: </b>Desenvolvedor Full Stack;</li>
+    <li>:brain:<b>Estudando: </b>Sistemas de Informação;</li>
     <li>:seedling:<b>Aprendendo: </b>Atualmente estou concentrado em estudar React JS e Node JS;</li>
     <li>:hammer:<b>Principais Ferramentas: </b>Visual Studio Code e GitHub;</li>
   </ul>
