@@ -7,7 +7,7 @@
     <li>:seedling:<b>Aprendendo: </b>Atualmente estou concentrado em estudar React JS e Node JS;</li>
     <li>:hammer:<b>Principais Ferramentas: </b>Visual Studio Code e GitHub;</li>
   </ul>
-  <img width="170" src="https://media4.giphy.com/media/J20KhwQ6sL0CGiEVrz/giphy.gif?cid=ecf05e47wfhy6zlauy50ulssuyza8j4ab8xd4z0o476w3pf6&rid=giphy.gif" />
+  
  </div>
  <div>
   <a href="https://github.com/rossienzo">
@@ -32,4 +32,5 @@
      <img align="center" alt="enzo-contact-gmail" height="30" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-   badge&logo=gmail&logoColor=white' />
    </a>
    <img align="center" alt="enzo-contact-linkedin" height="30" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+  
  </div>
