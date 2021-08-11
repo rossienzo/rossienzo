@@ -13,7 +13,7 @@
   <a href="https://github.com/rossienzo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rossienzo&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossienzo&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossienzo&layout=compact&theme=tokyonight" />
  </div>
   
  <div style="display: inline_block"><br />
