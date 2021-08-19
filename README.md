@@ -21,8 +21,8 @@
    <img align="center" alt="enzo-css" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />
    <img align="center" alt="enzo-js" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' />
    <img align="center" alt="enzo-jquery" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg' />
-   <img align="center" alt="enzo-jquery" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' />
-   <img align="center" alt="enzo-react" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' />
+   <img align="center" alt="enzo-php" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' />
+   <img align="center" alt="enzo-mysql" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' />
    <img align="center" alt="enzo-react" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
  </div>
 
