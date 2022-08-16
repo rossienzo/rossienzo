@@ -1,11 +1,11 @@
-# Olá, meu nome é Enzo Rossi <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="30" width="30" />
+# Hi, my name is Enzo Rossi <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="30" width="30" />
   
 <div>
   <ul >
-    <li>:desktop_computer:<b>Pretenção: </b>Desenvolvedor Full Stack;</li>
-    <li>:brain:<b>Estudando: </b>Sistemas de Informação;</li>
-    <li>:seedling:<b>Aprendendo: </b>Atualmente estou concentrado em estudar React JS e Node JS;</li>
-    <li>:hammer:<b>Principais Ferramentas: </b>Visual Studio Code e GitHub;</li>
+    <li>:desktop_computer:<b>Pretense: </b>Full Stack Developer;</li>
+    <li>:brain:<b>Studying: </b>Computer Science;</li>
+    <li>:seedling:<b>Learning: </b>I am currently concentrating on studying React JS;</li>
+    <li>:hammer:<b>Main Tools: </b>Visual Studio Code and GitHub;</li>
   </ul>
   
  </div>
@@ -26,7 +26,7 @@
    <img align="center" alt="enzo-react" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
  </div>
 
- ## Entre em contato comigo
+ ## Contact me
  <div style="display: inline_block"><br />
    <a href="mailto:enzorossi97@hotmail.com" target="_blank">
      <img align="center" alt="enzo-contact-outlook" height="30" src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' />
