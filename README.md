@@ -4,7 +4,7 @@
   <ul >
     <li>:desktop_computer:<b>Pretense: </b>Full Stack Developer;</li>
     <li>:brain:<b>Studying: </b>Computer Science;</li>
-    <li>:seedling:<b>Learning: </b>I am currently concentrating on studying React JS;</li>
+    <li>:seedling:<b>Learning: </b>I am currently concentrating on studying Typescript;</li>
     <li>:hammer:<b>Main Tools: </b>Visual Studio Code and GitHub;</li>
   </ul>
   
